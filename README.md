@@ -1,8 +1,10 @@
 ## Introduction
-This is the code for the workshop paper in STACOM 2022 
-arxiv version with the Github code link in paper:
+This is the code for the workshop paper in STACOM 2022. 
+
+arxiv Version with the GitHub code link in the paper:
 [Semi-Supervised Domain Generalization for Cardiac Magnetic Resonance Image Segmentation with High Quality Pseudo Labels](https://arxiv.org/abs/2209.15451)
-Springer Version without Github code link in paper:
+
+Springer Version without GitHub code link in the paper:
 [Semi-Supervised Domain Generalization for Cardiac Magnetic Resonance Image Segmentation with High Quality Pseudo](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_35)
 
 It's also the Final Dockerfile submitted to MICCAI 2022 [CMRxMotion Challenge](http://cmr.miccai.cloud/)
