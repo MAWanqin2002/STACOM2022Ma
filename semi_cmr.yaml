@@ -1,4 +1,4 @@
-name: semidg
+name: semi_cmr
 channels:
   - pytorch
   - defaults
